@@ -1,2 +1,2 @@
 # OSSE-Lab
-Lab task 1 & 2 for OSSE
+Lab task 1 & 2 for OSSE Subject
